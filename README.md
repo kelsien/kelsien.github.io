@@ -21,7 +21,7 @@ Most of my research is open access. 'Cataclysmic musings' on decentralised techn
 
 ## Affiliations
 
-RMIT University, entre of Excellence for Automated Decision-Making & Society (ADM+S), PhD Candidate <br>
+RMIT University, Centre of Excellence for Automated Decision-Making & Society (ADM+S), PhD Candidate <br>
 
 RMIT University, Blockchain Innovation Hub, Faculty Member <br>
 
@@ -43,7 +43,7 @@ Mirror: [https://kelsiemvn.mirror.xyz/](https://kelsiemvn.mirror.xyz/)  <br>
 
 Google Scholar: [https://scholar-google-com.ezproxy.lib.rmit.edu.au/citations?user=vsPDnMIAAAAJ&hl=en&oi=ao](https://scholar-google-com.ezproxy.lib.rmit.edu.au/citations?user=vsPDnMIAAAAJ&hl=en&oi=ao) <br>
 
-Academia .edu: [https://rmit.academia.edu/KelsieNabben](https://https://rmit.academia.edu/KelsieNabben) <br>
+Academia edu: [https://rmit.academia.edu/KelsieNabben](https://https://rmit.academia.edu/KelsieNabben) <br>
 
 SSRN: [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4117892](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4117892) <br>
 
