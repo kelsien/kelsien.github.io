@@ -3,8 +3,6 @@ Kelsie Nabben's Academic Research Library
 
 # Biography
 
-![Kelsie Nabben](images/circle-cropped_Kelsieheadshot.jpg) <br>
-
 Kelsie Nabben is a researcher in the theory and social outcomes of emerging technologies, specialising in the study of decentralised technology communities. As an ethnographer, she is interested in the human outcomes of digital infrastructure, blockchain community culture, and decentralised governance. She leads the governance research team at engineering firm [BlockScience](https://block.science/).
 
 Kelsie is a recipient of a PhD scholarship at the RMIT University Centre of Excellence for Automated Decision-Making & Society, and a researcher in the Digital Ethnography Research Centre and Blockchain Innovation Hub. Her post-doc position is with Dr Primavera De Filippi and the team at [BlockchainGov](https://blockchaingov.eu/), researching accountability and recourse in decentralised governance.
