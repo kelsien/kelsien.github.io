@@ -37,7 +37,7 @@ LinkedIn: [https://www.linkedin.com/in/kelsien/](https://www.linkedin.com/in/kel
 
 Subtack: [https://substack.com/profile/1619235-kelsie-nabben](https://substack.com/profile/1619235-kelsie-nabben) <br>
 
-Medium:[https://kelsienabben.medium.com/](https://kelsienabben.medium.com/)<br>
+Medium:[https://kelsienabben.medium.com/](https://kelsienabben.medium.com/) ; [https://medium.com/@blockscience](https://medium.com/@blockscience)<br>
 
 Mirror: [https://kelsiemvn.mirror.xyz/](https://kelsiemvn.mirror.xyz/)  <br>
 
