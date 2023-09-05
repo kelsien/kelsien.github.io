@@ -3,11 +3,11 @@ Kelsie Nabben's Academic Research Library
 
 # Biography
 
-Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, notably decentralised digital infrastructure and Artificial Intelligence. Her post-doctoral research at European University Institute with Dr Primavera De Filippi [BlockchainGov](https://blockchaingov.eu/) focuses on accountability in contexts of private governance (such as blockchain networks), specifically, how these communities achieve and maintain self-governance. She conducted her PhD at RMIT University's Centre of Excellence for Automated Decision-Making & Society, with a thesis on 'resilience in decentralised technologies'. 
+Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, notably decentralised digital infrastructure and Artificial Intelligence. 
 
-Nabben's research aims to understand the use of technology across diverse communities and to generate insights that can improve societal outcomes. This involves a critical analysis of the interplay between social and technical elements of digital infrastructure. 
+She completed her PhD at RMIT University’s Centre of Excellence for Automated Decision-Making & Society on 'resilience in decentralised technologies'. Her post-doctoral research as a Max Weber Fellow at European University Institute with Dr Primavera De Filippi [BlockchainGov](https://blockchaingov.eu/) focuses on accountability in blockchain governance, specifically in digital contexts of private governance.
 
-Her research has been applied in various settings, including contributions to an Australian Federal blockchain working group and the development of international policy toolkits on 'Decentralised Autonomous Organisations' for the World Economic Forum. Additionally, she works on industry projects with engineering firm [BlockScience](https://block.science/) and frequently shares her perspectives through peer-reviewed publications, and on national news and radio.
+Nabben’s research involves analysis of the interplay between social and technical elements of digital infrastructure. It has been applied in various settings, including contributions to an Australian Federal blockchain working group and the development of international policy toolkits on 'Decentralised Autonomous Organisations' for the World Economic Forum. Additionally, she works on industry projects with engineering firm [BlockScience](https://block.science/) and frequently shares her perspectives through peer-reviewed publications, and on national news and radio.
 
 Most of her research is open access, including blogs at: [https://kelsienabben.substack.com/](https://kelsienabben.substack.com/) or [https://medium.com/@kelsie.nabben](https://medium.com/@kelsie.nabben)
 
