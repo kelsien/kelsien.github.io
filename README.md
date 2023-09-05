@@ -14,10 +14,10 @@ Most of her research is open access, including blogs at: [https://kelsienabben.s
 ## Research Interests
 
 - Decentralised technologies 
-- Governance in human-machine systems
+- Governance
+- Automation
 - Decentralised Autonomous Organisations (DAOs)
-- Blockchain community subcultures
-- Ethnography
+- Ethnographic methods
 - Infrastructure studies
 - Policy
 
