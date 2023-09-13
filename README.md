@@ -19,6 +19,7 @@ Most of her research is open access, including blogs at: [https://kelsienabben.s
 - Decentralised Autonomous Organisations (DAOs)
 - Ethnographic methods
 - Infrastructure studies
+- Resilience
 - Policy
 
 ## Affiliations
