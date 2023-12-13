@@ -3,7 +3,7 @@ Kelsie Nabben's Academic Research Library
 
 # Biography
 
-Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, notably decentralised digital infrastructure and Artificial Intelligence. 
+Dr Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, notably decentralised digital infrastructure and Artificial Intelligence. 
 
 She completed her PhD at RMIT University’s Centre of Excellence for Automated Decision-Making & Society on the topic of 'resilience in decentralised technologies'. Her post-doctoral research as a Max Weber Fellow at European University Institute with Dr Primavera De Filippi at [BlockchainGov](https://blockchaingov.eu/) focuses on accountability in blockchain as a context of digital self-governance.
 
