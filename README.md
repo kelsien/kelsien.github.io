@@ -3,11 +3,11 @@ Kelsie Nabben's Academic Research Library
 
 # Biography
 
-Dr Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, notably decentralised digital infrastructure and Artificial Intelligence. Her research focuses on resilience and accountability in contexts of digital, self-governance.
+Dr Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, notably decentralised digital infrastructure and Artificial Intelligence. Her research focuses on resilience and accountability in contexts of digital governance.
 
-She completed her PhD at RMIT University’s Centre of Excellence for Automated Decision-Making & Society on the topic of 'resilience in decentralised technologies'. Her post-doctoral research as a Max Weber Fellow at European University Institute with Dr Primavera De Filippi at [BlockchainGov](https://blockchaingov.eu/) focuses on accountability in blockchain as a context of digital self-governance.
+She completed her PhD at RMIT University’s Centre of Excellence for Automated Decision-Making & Society on the topic of resilience in decentralised technologies. Her post-doctoral research as a Max Weber Fellow at European University Institute with Dr Primavera De Filippi at [BlockchainGov](https://blockchaingov.eu/) focuses on accountability in blockchain systems as a context of digital private ordering and self-governance.
 
-Nabben’s research involves analysis of the interplay between social and technical elements of digital infrastructure. It has been applied in various settings, including contributions to an Australian Federal blockchain working group and the development of international policy toolkits on 'Decentralised Autonomous Organisations' for the World Economic Forum. Additionally, she works on industry projects with engineering firm [BlockScience](https://block.science/) and frequently shares her perspectives through peer-reviewed publications, and on national news and radio.
+Nabben’s research involves analysis of the interplay between social and technical elements of digital infrastructure. It has been applied in various settings, including contributions to an Australian Federal blockchain working group and the development of international policy toolkits on 'Decentralised Autonomous Organisations' for the World Economic Forum. Additionally, she works on industry projects with engineering firm [BlockScience](https://block.science/) and frequently shares her perspectives through peer-reviewed publications, national news, and radio.
 
 Most of her research is open access, including blogs at: [https://kelsienabben.substack.com/](https://kelsienabben.substack.com/) or [https://medium.com/@kelsie.nabben](https://medium.com/@kelsie.nabben)
 
@@ -16,7 +16,9 @@ Most of her research is open access, including blogs at: [https://kelsienabben.s
 - Decentralised technologies 
 - Governance
 - Automation
+- Blockchain
 - Decentralised Autonomous Organisations (DAOs)
+- LLMs/GenAI
 - Ethnographic methods
 - Infrastructure studies
 - Resilience
@@ -24,7 +26,7 @@ Most of her research is open access, including blogs at: [https://kelsienabben.s
 
 ## Affiliations
 
-European University Institute, Robert Shuman Centre for Advanced Studies, Max Weber Fellow <br>
+European University Institute, Robert Schuman Centre for Advanced Studies, Max Weber Fellow <br>
 
 BlockchainGov, Researcher <br>
 
@@ -56,7 +58,11 @@ Orchid ID: [https://orcid.org/0000-0003-4684-4113](https://orcid.org/0000-0003-4
 
 ## Research Publications
 
-**Zargham, M., & Nabben, K. (2023). Aligning ‘Decentralized Autonomous Organization’ to Precedents in Cybernetics. MIT Computational Law Report. Retrieved from https://law.mit.edu/pub/dao-precedents-cybernetics.**
+**Nabben, K. (2024). DAO Vulnerability Mapping: A Theoretical and Empirical Tool. In Decentralized Autonomous Organizations. Routledge.**
+
+**Abstract:** Blockchain technology is not just about digital currencies but even more about group coordination via software. Decentralized Autonomous Organizations (DAOs) are a broad organizational form for decentralized, blockchain-based coordination towards shared objectives. The concept of DAOs is driven by an ideology of self-governance through technological infrastructure. Drawing on the Science & Technology Studies conception of “vulnerability,” this chapter offers an analytical approach to identifying DAO vulnerabilities across multiple dimensions termed “DAO Vulnerability Mapping.” Vulnerability mapping is not only for analytical purposes but also to identify, prioritize, and address vulnerabilities towards improving resilience. DAO vulnerabilities can occur along social, technical, legal, economic, and environmental dimensions, and can emerge from inside a DAO (endogenously), or from outside a DAO (exogenously). This approach is pertinent in socio-technical contexts, such as blockchain-based organization, where social and technical dynamics are inextricably linked. In this chapter, these multidisciplinary dimensions of DAO vulnerabilities are explored in practice via a qualitative case study of a “liquid staking” DAO called Lido DAO. DAO vulnerability mapping is both a conceptual analytical tool and a methodological approach for studying and understanding digitally mediated organizations, as well as the novel practices of those engaging in Decentralized Autonomous Organizations.
+
+**Zargham, M., & Nabben, K. (2023). Aligning ‘Decentralized Autonomous Organization’ to Precedents in Cybernetics. MIT Computational Law Report. Available at: https://law.mit.edu/pub/dao-precedents-cybernetics.**
 
 **Abstract:** The concept of “Decentralized Autonomous Organization” has been popularized as part of the “Web 3.0” movement. This movement is characterized by digital infrastructures that are ‘decentralized’ in network architecture and permissionless to use. Decentralized autonomous organizations, referred to as DAOs, are a digital expression of the political will to self-organize. The granular entanglement of social and technical concepts makes it challenging to identify a historical precedent for DAOs. Yet, literature review and analysis reveals that this particular entanglement of information systems and self-organization is consistent with longstanding conceptual development and practice in the field of cybernetics. Drawing on Stafford Beer’s Viable Systems Model, this piece bridges DAOs and cybernetics via two main principles of organization: viability and purpose. Viability is a property of a system such that it has sufficient adaptive capacity to thrive in the face of change; adaptive capacity is characterized according to Ross Ashby’s concept of ‘variety’. Purpose is the ability to define and collectively pursue a goal in the sense of feedback control systems. Building on the control theoretic concepts of observability, controllability, and reachability, we examine the ‘governance surface’ of an organization and the associated trade-offs between resilience and robustness that emerge in governance surface design. We propose that this trade-off can be addressed with a constitutional archetype whereby an organization’s ability to update its code is constrained but not eliminated. A case study from a DAO known as ‘1Hive’ is explored to demonstrate this archetype in action. We consider the limitations of the cybernetics perspective by emphasizing the subjectivity of the governance designer. Finally, we conclude with future research directions.
   
