@@ -15,14 +15,12 @@ Most of her research is open access, including blogs at: [https://kelsienabben.s
 
 - Decentralised technologies 
 - Governance
-- Automation
+- Automated Decision-Making
 - Blockchain
 - Decentralised Autonomous Organisations (DAOs)
-- LLMs/GenAI
 - Ethnographic methods
 - Infrastructure studies
-- Resilience
-- Policy
+- Security
 
 ## Affiliations
 
