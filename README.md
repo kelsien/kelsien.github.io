@@ -24,19 +24,13 @@ Most of her research is open access, including blogs at: [https://kelsienabben.s
 
 ## Affiliations
 
-European University Institute, Robert Schuman Centre for Advanced Studies, Max Weber Fellow <br>
+RMIT University, Research Fellow, Centre of Excellence for Automated Decision-Making & Society (ADM+S) <br>
 
 BlockchainGov, Postdoctoral Researcher <br>
 
 BlockScience, Senior Researcher, Digital Ethnography <br>
 
-RMIT University, School of Media and Communication, Adjunct Fellow <br>
-
-RMIT University, Digital Ethnography Research Centre <br>
-
-RMIT University, Centre of Excellence for Automated Decision-Making & Society (ADM+S), Higher Degree by Research Alumni <br>
-
-RMIT University, Blockchain Innovation Hub, Alumni <br>
+European University Institute, Robert Schuman Centre for Advanced Studies, Max Weber Fellow <br>
 
 Metagov, Contributor <br>
 
