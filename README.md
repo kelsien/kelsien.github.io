@@ -48,7 +48,7 @@ Medium:[https://kelsienabben.medium.com/](https://kelsienabben.medium.com/) ; [h
 
 Mirror: [https://kelsiemvn.mirror.xyz/](https://kelsiemvn.mirror.xyz/)  <br>
 
-Google Scholar: [https://scholar.google.com/citations?hl=en&user=vsPDnMIAAAAJ) <br>
+Google Scholar: https://scholar.google.com/citations?hl=en&user=vsPDnMIAAAAJ <br>
 
 Academia edu: [https://rmit.academia.edu/KelsieNabben](https://https://rmit.academia.edu/KelsieNabben) <br>
 
