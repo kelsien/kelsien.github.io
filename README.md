@@ -5,7 +5,7 @@ Kelsie Nabben's Academic Research Library
 
 Dr Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, particularly decentralised digital infrastructure (including blockchains, peer-to-peer protocols, and Decentralised Autonomous Organisations) and other algorithmic systems (such as Large-Language-Models). Her interdisciplinary research involves analysis of the interplay between social and technical elements of digital infrastructure with a focus on resilience and accountability in contexts of digital governance. Practically, she has published and conducted industry projects on COVID-19 digital responses, software system vulnerability mapping methods, cybernetics and digital-physical systems, and the governance of algorithmic systems.
 
-Dr. Nabben completed her PhD as a scholarship recipient at RMIT University’s Centre of Excellence for Automated Decision-Making & Society on the topic of resilience in decentralised technologies, and was awarded an RMIT Vice Chancellor’s HDR Prize for Research Engagement and Impact. During this time, Dr. Nabben also worked as Researcher in the RMIT Blockchain Innovation Hub. In 2024, she completed a Max Weber Fellow at European University Institute focusing on accountability in blockchain systems as a context of digital private ordering and self-governance with Dr Primavera De Filippi and BlockchainGov.
+Dr. Nabben is a Research Fellow at RMIT University Centre of Excellence for Automated Decision-Making & Society (ADM+S) in Melbourne, Australia (see here [https://www.admscentre.org.au/the-use-of-automated-knowledge-in-organisations-project/]). She completed her PhD as a scholarship recipient at RMIT University’s ADM+S on the topic of resilience in decentralised technologies, and was awarded an RMIT Vice Chancellor’s HDR Prize for Research Engagement and Impact. In 2024, Dr. Nabben completed a Max Weber Fellow at European University Institute focusing on accountability in blockchain systems as a context of digital private ordering and self-governance with Dr Primavera De Filippi and BlockchainGov.
 
 Nabben’s research has been applied in various settings, including contributions to an Australian Federal blockchain working group and the development of international policy toolkits on ‘Decentralised Autonomous Organisations’ for the World Economic Forum. Additionally, she works on industry projects with engineering firm BlockScience and frequently shares her perspectives through peer-reviewed publications, national news, and radio.
 
@@ -13,24 +13,24 @@ Most of her research is open access, including blogs at: [https://kelsienabben.s
 
 ## Research Interests
 
-- Decentralised technologies 
+- Decentralised technologies
+- Blockchain
+- Digital security
 - Governance
 - Automated Decision-Making
-- Blockchain
 - Decentralised Autonomous Organisations (DAOs)
 - Ethnographic methods
-- Infrastructure studies
-- Security
+- Large-Language-Models (LLMs)
 
 ## Affiliations
 
 RMIT University, Research Fellow, Centre of Excellence for Automated Decision-Making & Society (ADM+S) <br>
 
-BlockchainGov, Postdoctoral Researcher <br>
+BlockchainGov, Researcher <br>
 
 BlockScience, Senior Researcher, Digital Ethnography <br>
 
-European University Institute, Robert Schuman Centre for Advanced Studies, Max Weber Fellow <br>
+European University Institute, Robert Schuman Centre for Advanced Studies, Max Weber Fellow (Completed), Visiting Scholar <br>
 
 Metagov, Contributor <br>
 
