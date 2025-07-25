@@ -58,6 +58,9 @@ Orchid ID: [https://orcid.org/0000-0003-4684-4113](https://orcid.org/0000-0003-4
 
 ## Research Publications
 
+**Bailey, Kelsie (2025). Decentralised Technologies: ‘Self-Infrastructuring’ Resilience. School of Media and Communication, RMIT University. https://doi.org/10.25439/rmt.29614595**
+(Thesis)
+
 **Nabben, K. (2025). Value from data? A decentralized approach. Platforms & Society, 2. https://doi.org/10.1177/29768624251358645 (Original work published 2025)**
 
 **Abstract:** This essay explores how enhancing accountability in the governance and use of data can increase its value as a relational asset within platform economies. With a focus on data intermediaries (entities that collect, curate and process data into products and services), it argues that data does not possess inherent value; rather, value emerges through socio-technical practices and relational exchanges. Drawing on theoretical frameworks from economic anthropology and Science and Technology Studies, this essay examines how intermediaries translate raw data into valuable outputs, often in ways that obscure the agency of data contributors. This opacity limits accountability and ambiguates the connection between those who generate data and those who profit from it. Through a case study of the Superset ecosystem–a decentralized governance infrastructure that combines market incentives, a data trust framework, and participatory enforcement mechanisms–this essay illustrates how designing for accountability has the potential to unlock greater value across the data economy. By integrating data contributors into governance processes, Superset demonstrates a ‘middle-out’ approach to value creation (rather than top-down or bottom-up), where accountability and value are mutually reinforcing. This reframes data not as a static commodity, but as a dynamic, relational form of capital, dependent on participation and platform-enforceable accountability.
