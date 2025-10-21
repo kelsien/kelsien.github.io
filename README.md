@@ -1,7 +1,7 @@
 # kelsien.github.io
 Kelsie Nabben's Academic Research Library
 
-# Biography
+# Biography 
 
 Dr Kelsie Nabben is an ethnographic researcher specialising in the social impacts of emerging technologies, particularly decentralised digital infrastructure (including blockchains, peer-to-peer protocols, and Decentralised Autonomous Organisations) and other algorithmic systems (such as Large-Language-Models). Her interdisciplinary research involves analysis of the interplay between social and technical elements of digital infrastructure with a focus on security and accountability in contexts of digital governance. Practically, she has published and conducted industry projects on COVID-19 digital responses, software system vulnerability mapping methods, cybernetics and digital-physical systems, and the governance of algorithmic systems.
 
