@@ -58,6 +58,11 @@ Orchid ID: [https://orcid.org/0000-0003-4684-4113](https://orcid.org/0000-0003-4
 
 ## Research Publications
 
+**Nabben, Kelsie, Primavera De Filippi, and Jessy Kate Shingler. (2025). “Digital Exclosures: Carving Spaces of Autonomy within Technological Enclosures.” Journal of Cultural Economy 0, no. 0: 1–18. https://doi.org/10.1080/17530350.2025.2544875.**
+
+
+**Abstract:** This paper introduces the concept of digital exclosure to analyze how spaces of autonomy are carved out within regimes of digital control. ‘Digital enclosure’ has been employed in a negative sense to theorize the forms of monitoring facilitated by ubiquitous computing, restriction of access, and surveillance. In contrast, this paper introduces the concept of ‘digital exclosure’ to describe an under-theorized mode of institutional agency: one that operates within the infrastructural logics it seeks to subvert or repurpose. The paper sets out an analytical framework to identify digital exclosures and explore their institutional dynamics. While our primary focus is on technical exclosures that emerge within digital infrastructures, we also examine how digital exclosures interact with legal and regulatory frameworks to demonstrate that effective digital exclosures often require multi-dimensional institutional support. The paper applies this framework to three case studies, showing that exclosures may be protective, emancipatory or exploitative. The paper then analyses how digital exclosures interact with the law to show that, to be effective, digital exclosures must be accompanied by social, technical, and/or economic institutional rulesets to protect themselves from external intervention. This paper offers a new perspective on how autonomy, resistance, and governance emerge from within infrastructures of control.
+
 **Bailey, Kelsie (2025). Decentralised Technologies: ‘Self-Infrastructuring’ Resilience. School of Media and Communication, RMIT University. https://doi.org/10.25439/rmt.29614595**
 (Thesis)
 
