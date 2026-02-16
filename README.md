@@ -58,6 +58,9 @@ Orchid ID: [https://orcid.org/0000-0003-4684-4113](https://orcid.org/0000-0003-4
 
 ## Research Publications
 
+**Ellie Rennie, Kelsie Nabben, Michael Zargham, Jason Potts, Brooke Ann Coco, Luke Miller, Matthew Green. (2025). 'Building the Loop: The Role of Ethnography in Artificial Organisational Intelligence'. Ethnography Praxis in Industry Conference. 1. pp. 223-225. https://doi.org/10.1111/epic.70009**
+**Abstract:** We introduce Artificial Organisational Intelligence (AOI): the capacity for organisations to make their knowledge (including routines, practices, rules, boundaries, and tacit know-how) legible and governable. AOI is not about replacing organisations with AI, but about enabling them to talk to themselves and to each other through regulated feedback loops. Our collaborative project with BlockScience and Metagov develops Knowledge Organisation Infrastructure (KOI), a protocol for stitching together disparate systems and practices without homogenisation, thereby allowing organisations to embed rules, permissions, and context into machine-readable forms. We describe how our ethnographic practice both informs and is transformed by this work: from observing hidden practices to actively building the loops that make organisational knowledge accessible and computable.
+
 **Allen, Darcy W. E., and Kelsie Nabben. 'Democratic governance and blockchain governance: is reconciliation
 possible?' E. Tan (Ed). Handbook of Blockchain in Public Governance. Elgar Publishing. pp. 271-285. ISBN: 9781035330089.**
 
