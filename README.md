@@ -56,6 +56,8 @@ SSRN: [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4117892](https:/
 
 Orchid ID: [https://orcid.org/0000-0003-4684-4113](https://orcid.org/0000-0003-4684-4113)
 
+Giveth security incentive research project: [https://giveth.io/project/blockchain-security-incentives:-research-os-poc-dev]  
+
 ## Research Publications
 
 **Ellie Rennie, Kelsie Nabben, Michael Zargham, Jason Potts, Brooke Ann Coco, Luke Miller, Matthew Green. (2026). 'Building the Loop: The Role of Ethnography in Artificial Organisational Intelligence'. Ethnography Praxis in Industry Conference. 1. pp. 223-225. https://doi.org/10.1111/epic.70009**
