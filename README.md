@@ -3,7 +3,7 @@ Kelsie Nabben's Academic Research Library
 
 # Biography 
 
-Dr Kelsie Nabben is an ethnographic researcher specialising in the social outcomes of emerging technologies, particularly decentralised digital infrastructure. Her interests include blockchains and other peer-to-peer protocols, Decentralised Autonomous Organisations, and Large-Language-Models. Her interdisciplinary research involves analysis of the interplay between social and technical elements of digital infrastructure with a focus on security and accountability in contexts of digital governance. Practically, she has published and conducted industry projects on decentralised governance, vulnerability mapping methods, cybernetics, and the governance of algorithmic systems.
+Dr Kelsie Nabben is an ethnographic researcher of the social outcomes of emerging technologies, particularly decentralised digital infrastructure. Her interests include blockchains and other peer-to-peer protocols, Decentralised Autonomous Organisations, and Large-Language-Models. Her interdisciplinary research involves analysis of the interplay between social and technical elements of digital infrastructure with a focus on security and accountability in contexts of digital governance. Her research converts to pubications and practical applications, including industry projects on decentralised governance, vulnerability mapping methods, cybernetics, and the governance of algorithmic systems.
 
 Dr. Nabben is a Research Fellow at RMIT University Centre of Excellence for Automated Decision-Making & Society (ADM+S) in Melbourne, Australia (see here [https://www.admscentre.org.au/the-use-of-automated-knowledge-in-organisations-project/](https://www.admscentre.org.au/the-use-of-automated-knowledge-in-organisations-project/)). She completed her PhD as a scholarship recipient at RMIT University’s ADM+S on the topic of resilience in decentralised technologies, and was awarded an RMIT Vice Chancellor’s HDR Prize for Research Engagement and Impact. In 2024, Dr. Nabben completed a Max Weber Fellow at European University Institute focusing on accountability in blockchain systems as a context of digital private ordering and self-governance with Dr Primavera De Filippi and BlockchainGov.
 
@@ -59,6 +59,10 @@ Orchid ID: [https://orcid.org/0000-0003-4684-4113](https://orcid.org/0000-0003-4
 Giveth security incentive research project: [https://giveth.io/project/blockchain-security-incentives:-research-os-poc-dev]  
 
 ## Research Publications
+
+**Nabben, Kelsie (2026). "Decentralised Digital Security: Code, crisis, community". Manchester University Press. Available hard cover: https://manchesteruniversitypress.co.uk/9781526187093/ or open access: https://www.manchesterhive.com/display/9781526187109/9781526187109.xml**
+
+**Abstract:** Decentralised digital security offers a compelling exploration of how digital security is practiced, organised and contested within blockchain communities. Drawing on immersive digital ethnography, the book examines how decentralised technologies - rooted in cryptography and designed to operate without central control - depend on not just technical systems but social infrastructures for incentive alignment and coordination. Through first-hand case studies, it reveals the white hat hackers, social infrastructures and ecosystem-wide efforts that make blockchain security possible. At a time of growing concern over digital security, the book provides a timely investigation into how security is enacted across decentralised networks, and what these practices reveal about digital security more broadly.
 
 **Ellie Rennie, Kelsie Nabben, Michael Zargham, Jason Potts, Brooke Ann Coco, Luke Miller, Matthew Green. (2026). 'Building the Loop: The Role of Ethnography in Artificial Organisational Intelligence'. Ethnography Praxis in Industry Conference. 1. pp. 223-225. https://doi.org/10.1111/epic.70009**
 
